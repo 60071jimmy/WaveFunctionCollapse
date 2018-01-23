@@ -1,0 +1,6 @@
+water_a 0, water_c 0, water_a 0, waterturn 1, waterside 0, watercorner 1, 
+waterside 0, waterside 0, waterside 0, watercorner 1, grass 0, grass 0, 
+grass 0, grass 0, grass 0, grass 0, cliffturn 3, cliff 2, 
+road 2, road 2, road 2, roadturn 2, cliff 3, grass 0, 
+road 0, road 0, grasscorner 2, road 1, cliffturn 0, cliffcorner 2, 
+cliff 2, cliffturn 2, road 3, road 1, grass 0, cliffturn 0, 
